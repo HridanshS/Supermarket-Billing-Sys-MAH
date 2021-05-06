@@ -20,3 +20,6 @@ New Functions added-
 
 New Data point added-
 1.	Cost- Miguel Urena
+
+
+Just to highlight, No Tokens were used by the group
